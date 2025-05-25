@@ -1,6 +1,6 @@
 # 🏗️ Foundations of Project Management
 
-Welcome to the foundational guide in our **Project Management Essentials** repository. This in-depth article is designed to give you a strong understanding of the fundamental concepts that underpin successful project management. With over 3000 words of curated content, examples, diagrams, and best practices, this guide is ideal for:
+Welcome to the foundational guide in our **Project Management Essentials** repository. This in-depth article is designed to give you a strong understanding of the fundamental concepts that underpin successful project management. With welll-curated content, examples, diagrams, and best practices, this guide is ideal for:
 
 - Aspiring and current project managers
 - Team leads and product owners
