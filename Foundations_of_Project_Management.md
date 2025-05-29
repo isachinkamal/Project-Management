@@ -55,7 +55,7 @@ Initiation → Planning → Execution → Monitoring & Controlling → Closure
 
 ### 1. Initiation
 - Define the project at a broad level
-- Create a project charter
+- Create a project charter 
 - Identify stakeholders
 
 ### 2. Planning
