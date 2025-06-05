@@ -234,9 +234,3 @@ By adopting best practices and leveraging modern tools, project managers can ove
 ---
 
 **Keywords:** Project Schedule Management, Critical Path, Gantt Chart, Project Planning, Agile Scheduling, Schedule Compression, PERT, Time Management, Project Timeline
-
-**Author:** [Your Name Here]
-
-**License:** MIT
-
-**Last Updated:** 2025-06-04
