@@ -1,4 +1,4 @@
-**Project Cost Management: A Comprehensive Guide**
+**Project Cost Management**
 
 ---
 
