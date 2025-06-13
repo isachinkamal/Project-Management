@@ -29,7 +29,7 @@ PCM spans across the entire lifecycle of a project, from initiation to closure. 
 
 ### The Four Processes of Project Cost Management
 
-Four main processes involved in cost management:
+Four main processes involved in the cost management:
 
 #### Plan Cost Management
 
