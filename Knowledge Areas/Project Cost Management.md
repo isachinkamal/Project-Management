@@ -52,7 +52,7 @@ The cost management plan becomes a component of the project management plan and 
 
 This involves developing an approximation of the monetary resources needed to complete project activities.
 
-**Techniques Used:**
+**Top Techniques Used:**
 
 * Expert judgment
 * Analogous estimating
