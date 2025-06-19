@@ -8,7 +8,7 @@ This article will provide a comprehensive overview of Project Quality Management
 
 ---
 
-## Understanding Quality in Projects
+## Understanding Quality in Projects 
 
 ### What is Quality?
 
